@@ -14,13 +14,9 @@ function FeaturesBlocks() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Why did we build this?</h2>
+            <h2 className="h2 mb-4">Why did we built this?</h2>
             <p className="text-xl text-gray-600">
-              There are various platforms to share one's accomplishments but not
-              a single one where one can go through each day to achieve that
-              milestone. Students like us sitting in the dorm working hard,
-              often lose out on motivation because there is no one to appreciate
-              our daily progress. How do we come into this picture?
+             We've designed our app to break down the barriers surrounding the taboo topic of mental health. It empowers both primary healthcare workers and individuals to conveniently assess their mental well-being, offering a safe and accessible platform for addressing this critical aspect of overall health at their own convenience.
             </p>
           </div>
 
@@ -63,7 +59,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Social Networking
+                {/* Social Networking */}Mental health Screening/Evaluation
               </h4>
               <p className="text-gray-600 text-center">
                 Allows users to share their everyday progress on health, career
@@ -108,8 +104,7 @@ function FeaturesBlocks() {
                 Positive Peers
               </h4>
               <p className="text-gray-600 text-center">
-                Users can see their your friend's progress to get inspired or
-                share their progress to get socially recognized.
+                Great Online Community to support and talk to!
               </p>
             </div>
 
@@ -191,7 +186,7 @@ function FeaturesBlocks() {
                 Inspiration
               </h4>
               <p className="text-gray-600 text-center">
-                View a friend's profile for inspiration/ just stalk
+               Get Inspired by others who have fought and won the Mental battle!
               </p>
             </div>
 

@@ -36,7 +36,7 @@ function Features() {
         <div className="pt-12 md:pt-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">TEVO's Three Pillars of Productivity</h1>
+            <h1 className="h2 mb-4">SPES'S Key Differentiators  </h1>
           </div>
 
           {/* Section content */}
@@ -62,12 +62,10 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Accountable Outcomes
+                     Precision Mental Evaluation, Like a Doctor in Your Pocket.
                     </div>
                     <div className="text-gray-600">
-                      With Tevo, you are not alone. You can share your tasks
-                      with the people who follow you. Encouragement from friends
-                      and Accountability to them helps you Reach New Heights.
+                  Our advanced algorithms emulate the expertise of a medical doctor, providing you with highly accurate and comprehensive mental health assessments, all accessible conveniently through your mobile device.
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -94,12 +92,10 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Work Ethic >>> Resources
+                     Seamlessly integrated web and mobile >>>
                     </div>
                     <div className="text-gray-600">
-                      Tevo helps you to replicate success by obeserving the Work
-                      Ethic of other people. You can share similar growth by
-                      following people with a proven track record.
+                      experience":access our platform effortlessly across various devices and uninterrupted access to tests even offline!
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -129,13 +125,10 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">
-                      Dynamic Schedule
+                      Built In Forum
                     </div>
                     <div className="text-gray-600">
-                      Your Schedule might change on the go. But don't worry.
-                      We've got you covered! As soon as you add your task, a 24
-                      hours cycle is started and you can complete the task
-                      within the stipulated time.
+                     Join our app's vibrant online community forum, designed to foster engagement and support among our users. Join conversations, share experiences, and find solace in a welcoming space that brings people together for mutual growth and understanding.
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">

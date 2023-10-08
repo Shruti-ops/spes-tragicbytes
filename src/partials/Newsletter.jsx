@@ -98,12 +98,10 @@ function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-white mb-2">
-                  Revolution in Productivity
+                 Redefining Mental Health 
                 </h3>
                 <p className="text-gray-300 text-lg mb-6">
-                  TEVO has raised the bar and gone beyond It offers a
-                  Success-List App. Complete your tasks and get inspired by
-                  friends and colleagues. Also get a sneak peak at their lives!
+                SPES is more than just an app its a Ecosystem.Offering precision mental evaluation akin to a doctor's, multiple use cases and our vibrant online community forum
                 </p>
 
                 {/* CTA form */}

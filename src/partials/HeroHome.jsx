@@ -48,9 +48,9 @@ function HeroHome() {
               className="text-4xl md:text-5xl font-extrabold leading-tighter tracking-tighter mb-4"
               data-aos="zoom-y-out"
             >
-              Track and Share <br />
+              SPES<br />
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-400">
-                Your Everyday Progress
+                Mindful Progress, Shared Happiness
               </span>
             </h1>
             <div className="max-w-3xl mx-auto">
@@ -59,8 +59,7 @@ function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Every Day is a Journey Live It - Share It - With The People Who
-                Care About It!
+                Your comprehensive mental health screening and tracking app for a brighter tomorrow!
               </p>
             </div>
           </div>
